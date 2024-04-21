@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+    
+
+}
+td{
+    border: 1px solid ;  color:black;   
+}
+.divAlignRight{
+    float:right;
+    
+    
+}
+.tituloTabela{
+    text-align: center;
+
+}
+.Bandeiras{
+    float:inherit;
+}
+   
+.Posição{
+    text-align: center;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.primeiracorrida{
+    text-align: center;
+    
+}
+h3{
+   text-align: center;
+}
+.segundacorrida{
+    display: flex;
+    justify-content: center;
+    position: center;
+   margin-top: -336px;
+
+}
+.terceiracorrida{
+   justify-content: right;
+   display: flex;
+   margin-top: -336px;
+
+}
+.construtoresdois{
+    display: flex;
+    justify-content: center;
+    position: center;
+    margin-top: -656px;
+}
+.construtoresum{
+    display: flex;
+    justify-content: left;
+    position: center;
+}
+.contrutorestres{
+    display: flex;
+    justify-content: right;
+    position: center;
+    margin-top: -656px;
+}
+.cor{
+    background-color:gainsboro;
+}
+    .classificacaogeral{
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        
+    }
+    .coraqui{
+        background-color: red;
+    }
+    .pontos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -1240px;
+    }
